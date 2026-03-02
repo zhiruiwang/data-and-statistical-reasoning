@@ -76,7 +76,6 @@ Data-and-Statistical-Reasoning/
 │   ├── eda.py
 │   └── viz.py
 ├── analysis.ipynb                    # main analysis notebook
-├── module_summary.md                 # report (export to PDF for submission)
 ├── requirements.txt
 ├── README.md
 └── .gitignore
